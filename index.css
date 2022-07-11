@@ -8,8 +8,11 @@ body{
     border: 3px solid red;
     width: 100%;
     height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
-#menu{
-
+.menu>a{
+    margin: 1%;
 }
